@@ -1,5 +1,8 @@
 {
   "spider": "./fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73",
+  "spider": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73",
+  "spider": "./fan.txt;md5;dd909349c70fe92e82470eba611b7094",
+  "spider": "./top98_1.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -175,12 +178,107 @@
       "playerType": 2
     },
     {
+      "key": "csp_Ysj",
+      "name": "💮异界┃动漫",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "🎎日本┃动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "drpy_js_新片场",
+      "name": "🎬新片场[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/新片场.js"
+    },
+    {
       "key": "柠檬",
       "name": "柠檬┃App",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
       "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
+    },
+    {
+      "key": "drpy_js_JustLive",
+      "name": "直播 | JustLive[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "./lib/JustLive.js"
+    },
+    {
+      "key": "drpy_js_斗鱼直播",
+      "name": "直播 | 斗鱼[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "./lib/斗鱼直播.js"
+    },
+    {
+      "key": "drpy_js_虎牙直播",
+      "name": "直播 | 虎牙[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "./lib/虎牙直播.js"
+    },
+    {
+      "key": "drpy_js_童趣",
+      "name": "少儿 | 童趣[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/童趣.js"
+    },
+    {
+      "key": "drpy_js_兔小贝",
+      "name": "少儿 | 兔小贝[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/兔小贝.js"
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "🚌动漫┃巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Ying",
+      "name": "⚜️樱花┃动漫",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "AI1",
@@ -389,6 +487,104 @@
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "drpy_js_AnFuns",
+      "name": "动漫 | AnFuns[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/AnFuns.js"
+    },
+    {
+      "key": "drpy_js_NT动漫",
+      "name": "动漫 | NT动漫[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/NT动漫.js"
+    },
+    {
+      "key": "drpy_js_听书网",
+      "name": "听书 | 听书网[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/听书网.js"
+    },
+    {
+      "key": "drpy_js_喜马拉雅",
+      "name": "听书 | 喜马拉雅[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/喜马拉雅.js"
+    },
+    {
+      "key": "drpy_js_评书随身听",
+      "name": "评书 | 评书随身听[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/评书随身听.js"
+    },
+    {
+      "key": "drpy_js_相声随身听",
+      "name": "相声 | 相声随身听[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/相声随身听.js"
+    },
+    {
+      "key": "drpy_js_好趣网",
+      "name": "电视 | 好趣网[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "oval",
+        "ratio": 1.1
+      },
+      "ext": "./lib/好趣网.js"
+    },
+    {
+      "key": "drpy_js_广播迷FM",
+      "name": "广播 | 广播迷FM[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/广播迷FM.js"
+    },
+    {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "广播 | 蜻蜓FM[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/蜻蜓FM.js"
+    },
+    {
+      "key": "drpy_js_DJ音乐",
+      "name": "音频 | DJ音乐[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/DJ音乐.js"
+    },
+    {
+      "key": "drpy_js_短视频",
+      "name": "聚合 | 短视频[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/短视频.js"
+    },
+    {
+      "key": "drpy_js_酷6网",
+      "name": "聚合 | 酷6网[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "./lib/酷6网.js"
     },
     {
       "key": "360_spider",
