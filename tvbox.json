@@ -238,46 +238,46 @@
        "filterable": 1,
        "ext": "https://xhdwc.tk/json/xx1.json"
       },
-      {
-         "key": "少儿教育",
-         "name": "少儿教育",
-         "type": 3,
-         "api": "csp_Bili",
-         "searchable": 0,
-         "quickSearch": 0,
-         "filterable": 1,
-         "ext": "https://xhdwc.tk/json/xx2.json"
-       },
-        {
-            "key": "小学教育",
-            "name": "小学教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx3.json"
-        },
-        {
-            "key": "初中教育",
-            "name": "初中教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx4.json"
-        },
-        {
-            "key": "高中教育",
-            "name": "高中教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://xhdwc.tk/json/xx5.json"
-        },
+    {
+       "key": "少儿教育",
+       "name": "少儿教育",
+       "type": 3,
+       "api": "csp_Bili",
+       "searchable": 0,
+       "quickSearch": 0,
+       "filterable": 1,
+       "ext": "https://xhdwc.tk/json/xx2.json"
+    },
+    {
+        "key": "小学教育",
+        "name": "小学教育",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "ext": "https://xhdwc.tk/json/xx3.json"
+    },
+    {
+        "key": "初中教育",
+        "name": "初中教育",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "ext": "https://xhdwc.tk/json/xx4.json"
+    },
+    {
+        "key": "高中教育",
+        "name": "高中教育",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "ext": "https://xhdwc.tk/json/xx5.json"
+    },
      {
       "key": "蚂蚁",
       "name": "蚂蚁┃App",
@@ -309,14 +309,14 @@
       "ext": "https://www.libvio.pw/static/js/playerconfig.js"
     },
     {
-            "key": "csp_xb_zxzj",
-            "name": "在线之家(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "<a href='http://home.jundie.top:666/json/XBiu/zxzj.json' target='_blank'>http://home.jundie.top:666/json/XBiu/zxzj.json</a>"
+        "key": "csp_xb_zxzj",
+        "name": "在线之家(XBiu)",
+        "type": 3,
+        "api": "csp_XBiu",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "<a href='http://home.jundie.top:666/json/XBiu/zxzj.json' target='_blank'>http://home.jundie.top:666/json/XBiu/zxzj.json</a>"
      },
      {
             "key": "csp_xb_auete",
