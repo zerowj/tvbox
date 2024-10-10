@@ -548,6 +548,7 @@
       "name": "广播 | 广播迷FM[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
+      "jar": "./fan.txt;md5;dd909349c70fe92e82470eba611b7094",
       "changeable": 0,
       "ext": "./lib/广播迷FM.js"
     },
