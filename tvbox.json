@@ -404,34 +404,34 @@
       "ext": "https://www.libvio.pw/static/js/playerconfig.js"
     },
     {
-        "key": "csp_xb_zxzj",
-        "name": "在线之家(XBiu)",
+      "key": "csp_xb_zxzj",
+      "name": "在线之家(XBiu)",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "<a href='http://home.jundie.top:666/json/XBiu/zxzj.json' target='_blank'>http://home.jundie.top:666/json/XBiu/zxzj.json</a>"
+     },
+     {
+      "key": "csp_xb_auete",
+      "name": "AUETE(XBiu)",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "<a href='http://home.jundie.top:666/json/XBiu/auete.json' target='_blank'>http://home.jundie.top:666/json/XBiu/auete.json</a>"
+      },
+      {
+        "key": "csp_xb_lib",
+        "name": "LIB(XBiu)",
         "type": 3,
         "api": "csp_XBiu",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "<a href='http://home.jundie.top:666/json/XBiu/zxzj.json' target='_blank'>http://home.jundie.top:666/json/XBiu/zxzj.json</a>"
-     },
-     {
-            "key": "csp_xb_auete",
-            "name": "AUETE(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "<a href='http://home.jundie.top:666/json/XBiu/auete.json' target='_blank'>http://home.jundie.top:666/json/XBiu/auete.json</a>"
-      },
-      {
-            "key": "csp_xb_lib",
-            "name": "LIB(XBiu)",
-            "type": 3,
-            "api": "csp_XBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": " <a href='https://www.libvio.me/type' target='_blank'>https://www.libvio.me/type</a>/{cateId}-{catePg}.html"
+        "ext": " <a href='https://www.libvio.me/type' target='_blank'>https://www.libvio.me/type</a>/{cateId}-{catePg}.html"
       },
     {
       "key": "时常",
@@ -585,6 +585,18 @@
       "ext": "./lib/酷6网.js"
     },
     {
+      "key": "csp_xlys",
+      "name": "修罗┃直连"
+      "type": 3,
+      "api": "csp_Bdys01"
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "maHR0cHM6Ly93d3cueGx5czAyLmNvbQ=="
+    },
+	  
+    {
       "key": "360_spider",
       "name": "360┃解析",
       "api": "csp_SP360",
@@ -700,7 +712,7 @@
     {
       "name": "巧技",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -729,7 +741,7 @@
     {
       "name": "巧技二",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
         "flag": [
           "qq",
