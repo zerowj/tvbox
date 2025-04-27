@@ -585,19 +585,7 @@
       "changeable": 0,
       "ext": "./lib/酷6网.js"
     },
-    {
-      "key": "csp_xlys",
-      "name": "修罗┃直连"
-      "type": 3,
-      "api": "csp_Bdys01"
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "maHR0cHM6Ly93d3cueGx5czAyLmNvbQ=="
-    },
-	  
-    {
+     {
       "key": "360_spider",
       "name": "360┃解析",
       "api": "csp_SP360",
