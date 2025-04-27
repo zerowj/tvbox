@@ -307,11 +307,15 @@
       "ext": "http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji"
     },
     {
-      "key": "JianPian",
-      "name": "荐片[边下边播]",
+      "key": "荐片",
+      "name": "🏆荐片(SP)",
       "type": 3,
-      "api": "csp_JianPian",
-      "ext": "jianpian-android/360"
+       "searchable": 1,
+      "quickSearch": 1,
+       "changeable": 1,
+      "api": "csp_Jianpian",
+      "ext": "/lib/jianpian.json",
+      "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
     {
       "key": "Dygang",
