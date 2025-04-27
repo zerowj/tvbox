@@ -17,7 +17,7 @@
       "name": "南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
-      "ext": "/lib/豆瓣.json"，
+      "ext": "/lib/豆瓣.json",
       "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
     {
