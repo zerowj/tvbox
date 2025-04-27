@@ -1,6 +1,6 @@
 {
   "spider": "./fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73",
-  "spider": "./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
+  "spider": "./jar/custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
