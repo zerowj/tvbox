@@ -34,9 +34,9 @@
     },
     {
       "key": "豆瓣",
-      "name": "🎯 公益接口",
+      "name": "💯豆瓣｜评分｜推荐",
       "type": 3,
-      "api": "https://d.kstore.space/download/4690/lib/drpy2.min.js",
+      "api": "csp_Douban",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
