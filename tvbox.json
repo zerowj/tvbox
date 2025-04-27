@@ -34,10 +34,8 @@
       "name": "💯豆瓣｜评分｜推荐",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://d.kstore.space/download/4690/js/豆瓣.js"
+      "ext": "/lib/豆瓣.json",
+      "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
     {
       "key": "热播库",
