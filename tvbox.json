@@ -17,8 +17,27 @@
       "name": "南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
-      "ext": "/lib/豆瓣.json",
-      "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "🥠苹果｜影视｜蓝光",
+      "type": 3,
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "金牌",
+      "name": "🧿金牌｜影视｜蓝光",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "nbys",
@@ -29,6 +48,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
+     {
+      "key": "热播",
+      "name": "🍬热播｜有广｜蓝光",
+      "type": 3,
+      "api": "csp_AppRB",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType":1
+      "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
+    },
     {
       "key": "豆瓣",
       "name": "💯豆瓣｜评分｜推荐",
@@ -37,6 +67,7 @@
       "ext": "/lib/豆瓣.json",
       "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
+	
     {
       "key": "热播库",
       "name": "热播🔥观影",
@@ -584,16 +615,68 @@
       "changeable": 0,
       "ext": "./lib/酷6网.js"
     },
-     {
-      "key": "360_spider",
-      "name": "360┃解析",
-      "api": "csp_SP360",
+    {
+      "key": "drpy_js_360影视",
+      "name": "🥇官源┃360[js]",
       "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
-      "playerType": 2,
-      "ext": ""
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./js/360影视.js"
+    },
+	   {
+      "key": "索尼",
+      "name": "🦜索尼┃采集",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "360",
+      "name": "🦚360┃采集",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "女频恋爱",
+        "成长逆袭",
+        "反转爽剧"
+      ]
     },
     {
       "key": "ZXZJ",
