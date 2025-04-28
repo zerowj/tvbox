@@ -56,7 +56,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType":1
+      "playerType":1,
       "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
     {
@@ -67,7 +67,6 @@
       "ext": "/lib/豆瓣.json",
       "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
-	
     {
       "key": "热播库",
       "name": "热播🔥观影",
