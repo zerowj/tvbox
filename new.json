@@ -1,5 +1,16 @@
 {
-  "sites": [
+  "spider": "./lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "lives": [
+    {
+      "name": "TXT",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zerowj/tvlist/main/%E7%9B%B4%E6%92%AD%E6%BA%90.m3u",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+   "sites": [
     {
       "key": "南瓜",
       "name": "南瓜┃App",
@@ -1094,7 +1105,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "./lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e"
+  ]
 }
