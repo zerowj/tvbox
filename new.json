@@ -31,13 +31,12 @@
       "filterable": 0
     },
     {
-      "key": "金牌",
-      "name": "🧿金牌｜影视｜蓝光",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+    "key": "天天",
+    "name": "天天┃高峰期用不了就点我换源或者搜索",
+    "type": 3,
+    "api": "csp_TTian",
+    "playerType": 1,
+    "ext": "7lj763gg09397919456493i0h44j8681highi4"
     },
     {
     "key": "Lib",
@@ -73,7 +72,15 @@
     "api": "csp_qiao2",
     "playerType": 2,
     "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
-    }
+    },
+    {
+    "key": "巧技三",
+    "name": "巧技三┃QD4K",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "playerType": 2,
+    "ext": "7lj763gg0939795i0678i48hk312jji7g4k69h089ij36j71031154l2k91k151k138612h68842ji"
+    },
      {
       "key": "热播",
       "name": "🍬热播｜有广｜蓝光",
@@ -162,6 +169,14 @@
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+    },
+    {
+    "key": "雨滴",
+    "name": "雨滴┃App",
+    "type": 3,
+    "api": "csp_Xdai",
+    "playerType": 2,
+    "ext": "7lj763gg402i794252729j81hl4gjh87g7hlij0lj6j8337942134gl0h7165707028353h48h1i9088321kh6j9g4gh40hkg97i7l07khk1jhgk25jj3lg462lk5710l5gljkg9gl787168ij416457i5lg1h7i22hkg27276h69k"
     },
     {
       "key": "Aid",
