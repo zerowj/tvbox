@@ -59,6 +59,22 @@
       "filterable": 1
     },
      {
+    "key": "巧技一",
+    "name": "巧技二┃APP",
+    "type": 3,
+    "api": "csp_qiao",
+    "playerType": 2,
+    "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01igg71j3l26k2gk3i71hl81h696923gkl7i0707"
+     },
+    {
+    "key": "巧技二",
+    "name": "巧技┃仅搜索",
+    "type": 3,
+    "api": "csp_qiao2",
+    "playerType": 2,
+    "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+    }
+     {
       "key": "热播",
       "name": "🍬热播｜有广｜蓝光",
       "type": 3,
@@ -342,7 +358,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji"
+      "ext": "7lj763gg0939795i067li482k704i2igg2k6980j95i631231j400hlgh707531k54864lh88k5h9781740hh287h9k035k8kg697852k5lj9kh276i575jk6kgk444kkkl8j1gggj370h768h473015hll64h265j82hg5667h79k93j4jk16l6215l327l71i922ilh6499j4k9h66297k5gjh4ii39j5107h837lh5104k477449hj1104h1i384l164k779h4595jlkh577l8i6570l23h4hg71hj92243h9076glj4k1k3il2404gl2i4i445ii0ji55578"
     },
     {
       "key": "AI3",
@@ -353,7 +369,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "ext": "http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji"
+      "ext": "7lj763gg0939795i067li482k704i2igg2k6980j95i631231j5203kgkg585g1k12j84jhl881j8396340hh487l3h30kk8l42l6851klhgjlk836ig69hj36k31i5ikhlki3gjli7k"
     },
     {
       "key": "荐片",
