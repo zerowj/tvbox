@@ -1,5 +1,5 @@
 {
-  "spider": "http://tv.laohu.cool/lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
+  "spider": "./lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
