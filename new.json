@@ -170,6 +170,15 @@
       "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
     {
+      "key": "csp_Ying",
+      "name": "⚜️樱花┃动漫",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+    {
       "key": "天天",
       "name": "天天┃App",
       "type": 3,
@@ -494,18 +503,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "sliu_spider",
-      "name": "石榴┃直连",
-      "api": "csp_ShiLiuDY",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
+     {
       "key": "快看",
       "name": "快看┃直连",
       "type": 3,
