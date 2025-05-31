@@ -1,8 +1,8 @@
 {
-  "spider": "./lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
-    "spider": "./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
+  "spider": "./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
   "spider": "./fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73",
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "spider": "./lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
+   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "TXT",
