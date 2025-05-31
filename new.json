@@ -192,7 +192,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
-      "ext": "http://v.rbotv.cn"
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
       "key": "追剧",
@@ -422,15 +422,6 @@
       "filterable": 0,
       "playerType": 2,
       "ext": "./lib/mayi.txt"
-     },
-     {
-      "key": "看看",
-      "name": "看看┃App",
-      "type": 3,
-      "api": "csp_KanKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
      },
      {
       "key": "Lib",
@@ -683,7 +674,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": ""
+      "ext": "http://www.zxzjhd.com/"
     },
     {
       "key": "csp_CZSPP",
