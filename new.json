@@ -40,6 +40,16 @@
       "filterable": 0
     },
     {
+    "key": "Lib",
+    "name": "Lib┃直连",
+    "type": 3,
+    "api": "csp_Lib",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h"
+    },
+    {
       "key": "nbys",
       "name": "泥巴(墙)",
       "type": 3,
