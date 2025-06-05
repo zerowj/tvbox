@@ -110,9 +110,28 @@
       "quickSearch": 1,
       "filterable": 0
     },
+      {
+      "key": "热播",
+      "name": "🍬热播｜有广｜蓝光2",
+      "type": 3,
+      "api": "csp_AppRB",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType":1,
+      "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
+    },
     {
       "key": "豆瓣",
       "name": "💯豆瓣｜评分｜推荐",
+      "type": 3,
+      "api": "csp_Douban",
+      "ext": "/lib/豆瓣.json",
+      "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
+    },
+    {
+      "key": "豆瓣",
+      "name": "💯豆瓣｜评分｜推荐2",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 1,
