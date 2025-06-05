@@ -728,6 +728,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar":"./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
       "ext": "https://www.czzy77.com/"
     },
     {
@@ -747,6 +748,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
+      "jar":"./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
       "ext": "./lib/bili.json"
     },
     {
