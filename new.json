@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"
+      "jar":"./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884"
     },
     {
       "key": "苹果",
@@ -125,8 +125,8 @@
       "name": "💯豆瓣｜评分｜推荐",
       "type": 3,
       "api": "csp_Douban",
-      "ext": "/lib/豆瓣.json",
-      "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
+      "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5",
+      "ext": "/lib/豆瓣.json"      
     },
     {
       "key": "豆瓣",
