@@ -128,17 +128,7 @@
       "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5",
       "ext": "/lib/豆瓣.json"      
     },
-    {
-      "key": "豆瓣",
-      "name": "💯豆瓣｜评分｜推荐2",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "/lib/豆瓣.json"
-    },
-    {
+       {
       "key": "热播库",
       "name": "热播🔥观影",
       "type": 3,
