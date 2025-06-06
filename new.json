@@ -381,6 +381,17 @@
       "jar":"./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
       "ext": "/lib/jianpian.json"
     },
+      {
+      "key": "drpy_js_荐片",
+      "name": "🏆荐片(js)",
+      "type": 3,
+      "api": 	"./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
+      "ext": 	"./js/荐片.js"
+    },
     {
       "key": "Dygang",
       "name": "电影港[边下边播]",
