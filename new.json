@@ -1,5 +1,6 @@
 {
   "spider": "./lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
+  "spider":"./jar/custom_spider.jar;md5;2389f95e0c10d62ec636ccb2a8b8de4e",
    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -127,15 +128,15 @@
       "jar":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5",
       "ext": "/lib/豆瓣.json"      
     },
-       {
-      "key": "热播库",
-      "name": "热播🔥观影",
+    {
+      "key": "苹果",
+      "name": "🥠苹果｜影视｜蓝光",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Xpg",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "[object Object]"
+      "changeable": 1,
+      "jar": "./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
        {
       "key": "nangua",
