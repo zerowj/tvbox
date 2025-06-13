@@ -1,6 +1,5 @@
 {
-  "spider": "./lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",
-  "spider":"./custom_spider.jar;md5;b3f144d34651b79384fc9e1ca4e3e310",
+  "spider": "./lh250524.jar;md5;5dd760d88db059e93c31f77a7e785d3e",  
    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
