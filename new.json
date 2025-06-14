@@ -19,7 +19,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884"
+      
+    },
+     {"key": "csp_XBPQ_南瓜影视",
+      "name": "南瓜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+       "jar":"./top98_1.jar",
+      "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"
+    },
+     {
+      "key": "csp_xb_lez",
+      "name": "乐猪(XBiu)",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+       "jar":"./top98_1.jar", 
+      "ext": {
+        "homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html",
+        "playlist":{
+          "sort":1
+        }
+      }
     },
     {
       "key": "苹果",
