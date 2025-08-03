@@ -517,9 +517,8 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "jar":"./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
-      "ext": "/lib/jianpian.json"
+      "changeable": 1,
+      "jar":"./custom_spider.jar;md5;eaaa2de0f1e4946be155e3130ef4fdf3"      
     },
       {
       "key": "drpy_js_荐片",
@@ -529,7 +528,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
+      "jar": "./custom_spider.jar;md5;eaaa2de0f1e4946be155e3130ef4fdf3",
       "ext": "./js/荐片.js"
     },
     {
@@ -702,7 +701,7 @@
        "key": "360", 
        "name": "🦚360┃采集",
        "type": 1,
-       "jar":"./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
+       "jar":"./custom_spider.jar;md5;eaaa2de0f1e4946be155e3130ef4fdf3",
        "api": "https://360zy.com/api.php/provide/vod?",
        "searchable": 1,
        "changeable": 1,
@@ -889,7 +888,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar":"./custom_spider.jar;md5;fd389e3446f23e76f9112a2097d81884",
+      "jar":"./custom_spider.jar;md5;eaaa2de0f1e4946be155e3130ef4fdf3",
       "ext": "https://www.czzy77.com/"
     },
     {
